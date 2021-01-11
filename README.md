@@ -5,11 +5,13 @@ Home: https://github.com/ansible-community/ansible-bender
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ansible-bender-feedstock/blob/master/LICENSE.txt)
 
 Summary: A tool which builds container images using Ansible playbooks
 
+Development: https://github.com/ansible-community/ansible-bender
 
+Documentation: https://ansible-community.github.io/ansible-bender/build/html/index.html
 
 Current build status
 ====================
